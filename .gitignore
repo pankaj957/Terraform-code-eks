@@ -1,0 +1,4 @@
+#Ignore Statefile
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
